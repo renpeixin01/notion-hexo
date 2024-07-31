@@ -26,7 +26,7 @@
     {
       "id": "f922166f-6808-481b-9489-5fe541ecc113",
       "doc_id": "f922166f-6808-481b-9489-5fe541ecc113",
-      "updated": 1722390660000,
+      "updated": 1722399300000,
       "properties": {
         "categories": "Elog-Notion",
         "tags": [
@@ -38,7 +38,7 @@
         "title": "Notion-Hexo 的 Elog 配置详解",
         "cover": "/images/de91d8193c1b7d27e88f220af42a71b8.jpg",
         "date": "2024-07-31 09:51:00",
-        "updated": "2024-07-31 09:51:00"
+        "updated": "2024-07-31 12:15:00"
       },
       "realName": "Notion-Hexo 的 Elog 配置详解",
       "relativePath": "/Notion-Hexo 的 Elog 配置详解.md",
@@ -63,9 +63,70 @@
       "realName": "Notion示例文章",
       "relativePath": "/Notion示例文章.md",
       "docPath": "./source/_posts"
+    },
+    {
+      "id": "0c5fb36f-3579-4aab-9db8-877ea9ec63e9",
+      "doc_id": "0c5fb36f-3579-4aab-9db8-877ea9ec63e9",
+      "updated": 1722401580000,
+      "properties": {
+        "categories": "Elog-Notion",
+        "tags": [
+          "notion"
+        ],
+        "description": "",
+        "permalink": "notion-notice/",
+        "title": "Test ",
+        "cover": "/images/0babb77636c2df74679c15008ff3b587.jpg",
+        "date": "2024-07-31 12:16:00",
+        "updated": "2024-07-31 12:53:00"
+      },
+      "realName": "Test ",
+      "relativePath": "/Test .md",
+      "docPath": "./source/_posts"
     }
   ],
   "catalog": [
+    {
+      "object": "page",
+      "id": "0c5fb36f-3579-4aab-9db8-877ea9ec63e9",
+      "created_time": "2024-07-31T04:16:00.000Z",
+      "last_edited_time": "2024-07-31T04:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b8ea156a-5580-4226-b380-57cb6e4a1061"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b8ea156a-5580-4226-b380-57cb6e4a1061"
+      },
+      "cover": {
+        "type": "external",
+        "external": {
+          "url": "https://www.notion.so/images/page-cover/gradients_10.jpg"
+        }
+      },
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "49248459-6cf0-41e5-a881-98ff1611287d"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "categories": "Elog-Notion",
+        "tags": [
+          "notion"
+        ],
+        "description": "",
+        "permalink": "notion-notice/",
+        "title": "Test ",
+        "cover": "/images/0babb77636c2df74679c15008ff3b587.jpg",
+        "date": "2024-07-31 12:16:00",
+        "updated": "2024-07-31 12:53:00"
+      },
+      "url": "https://www.notion.so/Test-0c5fb36f35794aab9db8877ea9ec63e9",
+      "public_url": "https://rhetorical-silkworm-e9b.notion.site/Test-0c5fb36f35794aab9db8877ea9ec63e9"
+    },
     {
       "object": "page",
       "id": "71382945-4d3b-4863-b570-f37745635923",
@@ -82,8 +143,8 @@
       "cover": {
         "type": "file",
         "file": {
-          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/87750338-c3f6-4703-a4bc-d8d22b63a993/dc3ab2f7-66cb-4a5c-91bd-0c775b8e2aa5/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240731%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240731T021146Z&X-Amz-Expires=3600&X-Amz-Signature=7e4b6470728f24f9167534355074b01b80689562da059d3e83a82bddcafbea44&X-Amz-SignedHeaders=host&x-id=GetObject",
-          "expiry_time": "2024-07-31T03:11:46.977Z"
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/87750338-c3f6-4703-a4bc-d8d22b63a993/dc3ab2f7-66cb-4a5c-91bd-0c775b8e2aa5/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240731%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240731T045352Z&X-Amz-Expires=3600&X-Amz-Signature=4cded1a72a54c55f24f0459eb7adcb01330af1029dcb5d1b479ce6970b313215&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-07-31T05:53:52.469Z"
         }
       },
       "icon": {
@@ -104,10 +165,12 @@
           "hexo",
           "blog"
         ],
+        "status": "已发布",
         "description": "",
         "permalink": "notion-hexo/",
         "title": "Notion + Hexo + GitHub Actions + Vercel 博客解决方案",
-        "cover": "/images/b8b9a4ad4b17868e32218d8df3b4d21e.jpg",
+        "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/87750338-c3f6-4703-a4bc-d8d22b63a993/dc3ab2f7-66cb-4a5c-91bd-0c775b8e2aa5/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240731%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240731T045352Z&X-Amz-Expires=3600&X-Amz-Signature=4cded1a72a54c55f24f0459eb7adcb01330af1029dcb5d1b479ce6970b313215&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "urlname": "71382945-4d3b-4863-b570-f37745635923",
         "date": "2024-07-31 09:51:00",
         "updated": "2024-07-31 09:51:00"
       },
@@ -148,10 +211,12 @@
         "tags": [
           "notion"
         ],
+        "status": "已发布",
         "description": "",
         "permalink": "notion-example/",
         "title": "Notion示例文章",
-        "cover": "/images/aa04e8cfab38a2346420b1b635666927.jpg",
+        "cover": "https://www.notion.so/images/page-cover/met_camille_pissarro_1896.jpg",
+        "urlname": "b88d22c2-15e5-4064-af8d-9f2d6c657994",
         "date": "2024-07-31 09:51:00",
         "updated": "2024-07-31 09:51:00"
       },
@@ -162,7 +227,7 @@
       "object": "page",
       "id": "f922166f-6808-481b-9489-5fe541ecc113",
       "created_time": "2024-07-31T01:51:00.000Z",
-      "last_edited_time": "2024-07-31T01:51:00.000Z",
+      "last_edited_time": "2024-07-31T04:15:00.000Z",
       "created_by": {
         "object": "user",
         "id": "b8ea156a-5580-4226-b380-57cb6e4a1061"
@@ -198,7 +263,7 @@
         "title": "Notion-Hexo 的 Elog 配置详解",
         "cover": "/images/de91d8193c1b7d27e88f220af42a71b8.jpg",
         "date": "2024-07-31 09:51:00",
-        "updated": "2024-07-31 09:51:00"
+        "updated": "2024-07-31 12:15:00"
       },
       "url": "https://www.notion.so/Notion-Hexo-Elog-f922166f6808481b94895fe541ecc113",
       "public_url": "https://rhetorical-silkworm-e9b.notion.site/Notion-Hexo-Elog-f922166f6808481b94895fe541ecc113"

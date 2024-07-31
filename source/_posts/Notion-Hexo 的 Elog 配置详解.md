@@ -8,7 +8,7 @@ permalink: notion-notice/
 title: Notion-Hexo 的 Elog 配置详解
 cover: /images/de91d8193c1b7d27e88f220af42a71b8.jpg
 date: '2024-07-31 09:51:00'
-updated: '2024-07-31 09:51:00'
+updated: '2024-07-31 12:15:00'
 ---
 
 # 前言
