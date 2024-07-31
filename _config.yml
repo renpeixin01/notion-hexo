@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Notion-Hexo
-subtitle: 'Notion + Elog + Hexo + GitHub Actions + Vercel 博客解决方案'
-description: 'Notion + Elog + Hexo + GitHub Actions + Vercel 博客解决方案'
+title: Peixin's Blog
+subtitle: 'Recording my life here.'
+description: 'Progress is the sexiest thing.'
 keywords:
-author: 1874
-language: zh-CN
+author: Peixin Ren
+language: en_US
 timezone: Asia/Shanghai
 
 # URL
