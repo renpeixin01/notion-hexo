@@ -83,9 +83,72 @@
       "realName": "Test ",
       "relativePath": "/Test .md",
       "docPath": "./source/_posts"
+    },
+    {
+      "id": "287be8f9-88a3-4f0d-b175-b9a881c221d5",
+      "doc_id": "287be8f9-88a3-4f0d-b175-b9a881c221d5",
+      "updated": 1722410640000,
+      "properties": {
+        "categories": "BookNotes",
+        "tags": [
+          "blog",
+          "Machine Learning"
+        ],
+        "description": "",
+        "permalink": "notion-ML/",
+        "title": "Linear Algebra",
+        "cover": "/images/cf7886353d2d0abad46140c104127a75.jpg",
+        "date": "2024-07-31 14:58:00",
+        "updated": "2024-07-31 15:24:00"
+      },
+      "realName": "Linear Algebra",
+      "relativePath": "/Linear Algebra.md",
+      "docPath": "./source/_posts"
     }
   ],
   "catalog": [
+    {
+      "object": "page",
+      "id": "287be8f9-88a3-4f0d-b175-b9a881c221d5",
+      "created_time": "2024-07-31T06:58:00.000Z",
+      "last_edited_time": "2024-07-31T07:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b8ea156a-5580-4226-b380-57cb6e4a1061"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b8ea156a-5580-4226-b380-57cb6e4a1061"
+      },
+      "cover": {
+        "type": "external",
+        "external": {
+          "url": "https://www.notion.so/images/page-cover/rijksmuseum_avercamp_1608.jpg"
+        }
+      },
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "49248459-6cf0-41e5-a881-98ff1611287d"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "categories": "BookNotes",
+        "tags": [
+          "blog",
+          "Machine Learning"
+        ],
+        "description": "",
+        "permalink": "notion-ML/",
+        "title": "Linear Algebra",
+        "cover": "/images/cf7886353d2d0abad46140c104127a75.jpg",
+        "date": "2024-07-31 14:58:00",
+        "updated": "2024-07-31 15:24:00"
+      },
+      "url": "https://www.notion.so/Linear-Algebra-287be8f988a34f0db175b9a881c221d5",
+      "public_url": "https://rhetorical-silkworm-e9b.notion.site/Linear-Algebra-287be8f988a34f0db175b9a881c221d5"
+    },
     {
       "object": "page",
       "id": "0c5fb36f-3579-4aab-9db8-877ea9ec63e9",
@@ -117,10 +180,12 @@
         "tags": [
           "notion"
         ],
+        "status": "已发布",
         "description": "",
         "permalink": "notion-notice/",
         "title": "Test ",
-        "cover": "/images/0babb77636c2df74679c15008ff3b587.jpg",
+        "cover": "https://www.notion.so/images/page-cover/gradients_10.jpg",
+        "urlname": "0c5fb36f-3579-4aab-9db8-877ea9ec63e9",
         "date": "2024-07-31 12:16:00",
         "updated": "2024-07-31 12:53:00"
       },
@@ -143,8 +208,8 @@
       "cover": {
         "type": "file",
         "file": {
-          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/87750338-c3f6-4703-a4bc-d8d22b63a993/dc3ab2f7-66cb-4a5c-91bd-0c775b8e2aa5/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240731%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240731T045352Z&X-Amz-Expires=3600&X-Amz-Signature=4cded1a72a54c55f24f0459eb7adcb01330af1029dcb5d1b479ce6970b313215&X-Amz-SignedHeaders=host&x-id=GetObject",
-          "expiry_time": "2024-07-31T05:53:52.469Z"
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/87750338-c3f6-4703-a4bc-d8d22b63a993/dc3ab2f7-66cb-4a5c-91bd-0c775b8e2aa5/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240801%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240801T010222Z&X-Amz-Expires=3600&X-Amz-Signature=3f2d78d0003e084c81fd08d9ffa0520762ff0382b08996b88c7f010803e9c0a4&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-08-01T02:02:22.305Z"
         }
       },
       "icon": {
@@ -169,7 +234,7 @@
         "description": "",
         "permalink": "notion-hexo/",
         "title": "Notion + Hexo + GitHub Actions + Vercel 博客解决方案",
-        "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/87750338-c3f6-4703-a4bc-d8d22b63a993/dc3ab2f7-66cb-4a5c-91bd-0c775b8e2aa5/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240731%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240731T045352Z&X-Amz-Expires=3600&X-Amz-Signature=4cded1a72a54c55f24f0459eb7adcb01330af1029dcb5d1b479ce6970b313215&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/87750338-c3f6-4703-a4bc-d8d22b63a993/dc3ab2f7-66cb-4a5c-91bd-0c775b8e2aa5/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240801%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240801T010222Z&X-Amz-Expires=3600&X-Amz-Signature=3f2d78d0003e084c81fd08d9ffa0520762ff0382b08996b88c7f010803e9c0a4&X-Amz-SignedHeaders=host&x-id=GetObject",
         "urlname": "71382945-4d3b-4863-b570-f37745635923",
         "date": "2024-07-31 09:51:00",
         "updated": "2024-07-31 09:51:00"
@@ -258,10 +323,12 @@
           "notion",
           "elog"
         ],
+        "status": "已发布",
         "description": "使用Notion + Hexo部署博客时，在 Notion 上写作的注意事项，以及如何配置Elog使其更好的结合Hexo",
         "permalink": "notion-notice/",
         "title": "Notion-Hexo 的 Elog 配置详解",
-        "cover": "/images/de91d8193c1b7d27e88f220af42a71b8.jpg",
+        "cover": "https://www.notion.so/images/page-cover/rijksmuseum_jan_lievens_1627.jpg",
+        "urlname": "f922166f-6808-481b-9489-5fe541ecc113",
         "date": "2024-07-31 09:51:00",
         "updated": "2024-07-31 12:15:00"
       },
